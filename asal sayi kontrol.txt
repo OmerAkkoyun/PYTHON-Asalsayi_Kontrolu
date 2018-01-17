@@ -9,6 +9,6 @@ def asalsayi(sayi):
 while True:
     sayi=int(input("sayi gir="))
     if (asalsayi(sayi)):
-        print(sayi,"asal sayıdır")
+        print(sayi,"asal sayidir")
     else:
-        print(sayi,"asal sayı değildir")
+        print(sayi,"asal sayi deÄŸildir")
